@@ -1,0 +1,14 @@
+C:\Users\Jeff\source\repos\IncidentReportTracker\IncidentReportTracker\obj\Debug\net8.0\IncidentReportTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\source\repos\IncidentReportTracker\IncidentReportTracker\obj\Debug\net8.0\IncidentReportTracker.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\IncidentReportTracker\IncidentReportTracker\obj\Debug\net8.0\IncidentReportTracker.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\IncidentReportTracker\IncidentReportTracker\obj\Debug\net8.0\IncidentReportTracker.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\IncidentReportTracker\IncidentReportTracker\bin\Debug\net8.0\IncidentReportTracker.exe
+C:\Users\Jeff\source\repos\IncidentReportTracker\IncidentReportTracker\bin\Debug\net8.0\IncidentReportTracker.deps.json
+C:\Users\Jeff\source\repos\IncidentReportTracker\IncidentReportTracker\bin\Debug\net8.0\IncidentReportTracker.runtimeconfig.json
+C:\Users\Jeff\source\repos\IncidentReportTracker\IncidentReportTracker\bin\Debug\net8.0\IncidentReportTracker.dll
+C:\Users\Jeff\source\repos\IncidentReportTracker\IncidentReportTracker\bin\Debug\net8.0\IncidentReportTracker.pdb
+C:\Users\Jeff\source\repos\IncidentReportTracker\IncidentReportTracker\obj\Debug\net8.0\IncidentReportTracker.dll
+C:\Users\Jeff\source\repos\IncidentReportTracker\IncidentReportTracker\obj\Debug\net8.0\refint\IncidentReportTracker.dll
+C:\Users\Jeff\source\repos\IncidentReportTracker\IncidentReportTracker\obj\Debug\net8.0\IncidentReportTracker.pdb
+C:\Users\Jeff\source\repos\IncidentReportTracker\IncidentReportTracker\obj\Debug\net8.0\IncidentReportTracker.genruntimeconfig.cache
+C:\Users\Jeff\source\repos\IncidentReportTracker\IncidentReportTracker\obj\Debug\net8.0\ref\IncidentReportTracker.dll
